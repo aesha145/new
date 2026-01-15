@@ -11,4 +11,14 @@ img {
 .gallery img {
     width: 200px;
     margin: 10px;
+
 }
+<nav>
+  <a href="index.html">Home</a>
+  <a href="animals.html">Animals</a>
+  <a href="gallery.html">Gallery</a>
+  <a href="tickets.html">Tickets</a>
+  <a href="events.html">Events</a>
+  <a href="about.html">About</a>
+  <a href="contact.html">Contact</a>
+</nav>
